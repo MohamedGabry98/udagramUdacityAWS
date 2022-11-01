@@ -1,0 +1,48 @@
+{
+    "scripts": {
+        "frontend:install": "cd udagram/udagram-frontend && npm install -f",
+        "frontend:start": "cd udagram/udagram-frontend && npm run start",
+        "frontend:build": "cd udagram/udagram-frontend && npm run build",
+        "frontend:test": "cd udagram/udagram-frontend && npm run test",
+        "frontend:e2e": "cd udagram/udagram-frontend && npm run e2e",
+        "frontend:lint": "cd udagram/udagram-frontend && npm run lint",
+        "frontend:deploy": "cd udagram/udagram-frontend && npm run deploy",
+        "api:install": "cd udagram/udagram-api && npm install .",
+        "api:build": "cd udagram/udagram-api && npm run build",
+        "api:start": "cd udagram/udagram-api && npm run dev",
+        "api:deploy": "cd udagram/udagram-api && npm run deploy",
+        "deploy": "npm run api:deploy && npm run frontend:deploy"
+    },
+    "dependencies": {
+        "@types/typescript": "^2.0.0",
+        "bcrypt": "^5.0.1",
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "db-migrate": "^0.11.13",
+        "db-migrate-pg": "^1.2.2",
+        "dotenv": "^16.0.2",
+        "express": "^4.18.1",
+        "jsonwebtoken": "^8.5.1",
+        "pg": "^8.8.0",
+        "typescript": "^4.8.4"
+    },
+    "devDependencies": {
+        "@types/bcrypt": "^5.0.0",
+        "@types/express": "^4.17.14",
+        "@types/jasmine": "^4.3.0",
+        "@types/jsonwebtoken": "^8.5.9",
+        "@types/node": "^18.7.16",
+        "@types/pg": "^8.6.5",
+        "@types/supertest": "^2.0.12",
+        "@typescript-eslint/eslint-plugin": "^5.37.0",
+        "@typescript-eslint/parser": "^5.37.0",
+        "eslint": "^8.23.1",
+        "jasmine": "^4.4.0",
+        "jasmine-spec-reporter": "^7.0.0",
+        "nodemon": "^2.0.20",
+        "prettier": "^2.7.1",
+        "supertest": "^6.2.4",
+        "ts-node": "^10.9.1",
+        "tsc-watch": "^5.0.3"
+    }
+}
