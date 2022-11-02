@@ -14,7 +14,7 @@
 - Continous integration deployment with AWS
 
 ## Results
-![alt text](https://drive.google.com/drive/u/0/folders/1MagdICzpMvQFzD1khYtx_qpMoieQk46T)
+![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CCI.png?raw=true)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 
