@@ -15,6 +15,5 @@
 
 ## Results
 #### App Successful Build on AWS:
-![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CCI.png?raw=true)
-#### Circle CI Enviroment Variables:
-![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCi%20envs.png?raw=true)
+![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/Deployed%20APp.png?raw=true)
+
