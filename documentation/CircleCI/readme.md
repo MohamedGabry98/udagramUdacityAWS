@@ -14,7 +14,9 @@
 - Continous integration deployment with AWS
 
 ## Results
+### Circle CI Successful Builds Main Branch:
+![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCI%20Main%20Branch.png?raw=true)
 #### Circle CI Successful Build:
 ![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CCI.png?raw=true)
 #### Circle CI Enviroment Variables:
-![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCi%20envs.png?raw=true)
+![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCI%20envs2.png?raw=true)
