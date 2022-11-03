@@ -18,3 +18,6 @@ http://udagram-api-dev.eba-if3pqk8a.us-east-1.elasticbeanstalk.com/
 - Frontend link:
 http://udacityhubmgabry98.s3-website-us-east-1.amazonaws.com
 - AWS Documentation: [AWS](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/AWS/ReadMe.md)
+- CircleCI Documentation: [CCI](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCI/readme.md)
+- App Documentation: [APP](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/app/ReadMe.md)
+
