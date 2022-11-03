@@ -17,3 +17,4 @@
 http://udagram-api-dev.eba-if3pqk8a.us-east-1.elasticbeanstalk.com/
 - Frontend link:
 http://udacityhubmgabry98.s3-website-us-east-1.amazonaws.com
+- AWS Documentation: ![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/AWS/ReadMe.md)
