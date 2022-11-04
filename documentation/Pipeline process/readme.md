@@ -8,6 +8,8 @@
 - Create a circle-ci account.
 - Link Circle-CI to your Github repo.
 - Build Your pipeline.
+- Commiit to main branch on your repo.
+- Auto Deploy
 
 ## Features
 
