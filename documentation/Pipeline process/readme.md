@@ -21,4 +21,4 @@
 #### Circle CI Successful Build:
 ![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CCI.png?raw=true)
 #### Circle CI Enviroment Variables:
-![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/CircleCI%20envs2.png?raw=true)
+![alt text](https://github.com/MohamedGabry98/udagramUdacityAWS/blob/master/documentation/Circle%20Ci%20Enviroment.png?raw=true)
