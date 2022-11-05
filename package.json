@@ -11,7 +11,7 @@
         "api:build": "cd udagram/udagram-api && npm run build",
         "api:start": "cd udagram/udagram-api && npm run dev",
         "api:deploy": "cd udagram/udagram-api && npm run deploy",
-        "deploy": "npm run api:deploy && npm run frontend:deploy"
+        "deploy": "eb setenv JWT_SECRET=$JWT_SECRET POSTGRES_DB=$POSTGRES_DB POSTGRES_HOST=$POSTGRES_HOST POSTGRES_PASSWORD=$POSTGRES_PASSWORD POSTGRES_USERNAME=$POSTGRES_USERNAME && npm run api:deploy && npm run frontend:deploy"
     },
     "dependencies": {
         "@types/typescript": "^2.0.0",
